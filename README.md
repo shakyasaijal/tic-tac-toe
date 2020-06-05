@@ -2,7 +2,7 @@
 
 ## Demo
 
-> http://localhost:8000/games/ticTacToe
+> http://saijalshakya.com.np/games/ticTacToe
 
 ## AI Bot Using Minimax Algorithm
 
